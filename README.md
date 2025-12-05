@@ -59,7 +59,9 @@ Machine learning–based house price prediction with a complete Flask frontend.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrutha-gopalakrishnan/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ams_.16/?utm_source=qr&igsh=YzI0YXlmcXI4djRl#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amrutha-gopal.netlify.app/)
 
 ---
+
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*  
