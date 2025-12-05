@@ -1,4 +1,3 @@
-# Amrutha-Gopalakrishnan
 <h1 align="center">👋 Hi, I'm Amrutha</h1>
 <h3 align="center">💻 Frontend Developer | React • JavaScript • UI/UX | Modern Web Engineering</h3>
 
@@ -25,7 +24,7 @@
 ## 📌 Featured Projects
 
 ### 🧭🎒 CampusFind - Lost & Found Management System
-A comprehensive web application for managing lost and found items in educational institutions, built with React.js and Supabase.
+A comprehensive web application for managing lost and found items in educational institutions, built with React.js, Supabase and Firebase.
 
 ---
 
