@@ -47,16 +47,6 @@ Machine learning–based house price prediction with a complete Flask frontend.
 
 ---
 
-## 📈 GitHub Stats
-
-![Amrutha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amrutha-Gopalakrishnan&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrutha-Gopalakrishnan&layout=compact&theme=tokyonight)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Amrutha-Gopalakrishnan&style=for-the-badge)
-
----
-
 ## 🌱 Learning & Improving
 
 - Advanced React Patterns  
